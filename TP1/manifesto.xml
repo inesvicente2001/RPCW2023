@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>TP1</título>
+        <data>2023-02-20</data>
+        <autor>
+            <nome>Inês Oliveira Anes Vicente</nome>
+            <id>PG50436</id>
+            <gitlink>https://github.com/inesvicente2001/RPCW2023</gitlink>
+        </autor>
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p>A diretoria "cidades" contém os ficheiros do TPC da página sobre as cidades.</p>
+        <p>A diretoria "hungria" contém os ficheiros do TPC da página sobre a hungria.</p>
+        <p>As informações acerca da Hungria foram retiradas da <xref url="https://pt.wikipedia.org/wiki/Hungria">página wikipédia da Hungria.</xref></p>
+    </resumo>
+    <resultados>
+        <resultado path="cidades\mapa.json">Ficheiro fornecido na aula para obter a informação relativa às cidades.</resultado>
+        <resultado path="cidades\generator.py">Gera o ficheiro .html das cidades com a secção de ligações.</resultado>
+        <resultado path="hungria\hungria.json">Ficheiro com informações sobre a Hungria acedidas pelo hungria_generator.py.</resultado>
+        <resultado path="hungria\hungria_generator.py">Gera o ficheiro .html sobre a Hungria.</resultado>
+    </resultados>
+</manifesto>

@@ -1,0 +1,96 @@
+{
+    "secções": [
+        {
+            "id": "s1",
+            "nome": "Início",
+            "conteúdo": [
+                "A Hungria (em húngaro: Magyarország) é um país localizado no leste europeu, especificamente na Bacia dos Cárpatos. Faz fronteira com a Eslováquia ao norte, Romênia ao leste, Sérvia ao sul, Croácia a sudoeste, Eslovênia a oeste, Áustria a noroeste e Ucrânia a nordeste. A capital do país é a cidade de Budapeste. A Hungria é membro da União Europeia, da OTAN, da OCDE, do Grupo de Visegrád e do Espaço Schengen. A língua oficial é o húngaro, que é a língua não indo-europeia mais falada na Europa.",
+                "Após séculos de sucessiva ocupação de celtas, romanos, hunos, eslavos, gépidas e ávaros, a Hungria foi fundada no final do século IX pelo grão-príncipe húngaro Arpades durante o Honfoglalás (\"conquista da pátria\"). Seu bisneto Estêvão I subiu ao trono no ano 1000, quando converteu o país para um reino cristão. Até o século XII, a Hungria era uma potência média no mundo ocidental, alcançando seu auge no século XV. Após a Batalha de Mohács, em 1526, e de cerca de 150 anos sob ocupação otomana (1541-1699), a Hungria ressurge sob o domínio dos Habsburgos e, mais tarde, formou uma parte significativa do Império Austro-Húngaro (1867-1918).",
+                "Suas fronteiras atuais foram estabelecidas pela primeira vez pelo Tratado de Trianon (1920) após a Primeira Guerra Mundial, quando o país perdeu 71% de seu território, 58% da sua população e 32% dos húngaros étnicos. Após o período entre-guerras, a Hungria aderiu às Potências do Eixo na Segunda Guerra Mundial, quando sofreu danos significativos. A Hungria ficou sob a esfera de influência da União Soviética, o que contribuiu para o estabelecimento de um governo comunista que governou por quatro décadas (1947-1989). O país ganhou ampla atenção internacional por conta da Revolução de 1956 e da abertura parcial de sua fronteira anteriormente restrita com a Áustria, em 1989, o que acelerou o colapso de todo o Bloco de Leste.","Em 23 de outubro de 1989, a Hungria tornou-se novamente uma república parlamentar democrática e atualmente tem uma economia de alta renda, com um alto Índice de Desenvolvimento Humano (IDH). O país também é um destino turístico popular, atraindo cerca de 10 milhões de visitantes por ano. A Hungria abriga o maior sistema de fontes termais e o segundo maior lago termal do mundo (Lago Hévíz), o maior lago da Europa Central (lago Balaton), e as maiores pastagens naturais do continente europeu (o Parque Nacional de Hortobágy).",
+                "Em 23 de outubro de 1989, a Hungria tornou-se novamente uma república parlamentar democrática e atualmente tem uma economia de alta renda, com um alto Índice de Desenvolvimento Humano (IDH). O país também é um destino turístico popular, atraindo cerca de 10 milhões de visitantes por ano. A Hungria abriga o maior sistema de fontes termais e o segundo maior lago termal do mundo (Lago Hévíz), o maior lago da Europa Central (lago Balaton), e as maiores pastagens naturais do continente europeu (o Parque Nacional de Hortobágy)."
+            ],
+            "subsecções": []
+        },
+        {
+            "id": "s2",
+            "nome": "Etimologia",
+            "conteúdo": [
+                "O topônimo \"Hungria\" foi recebido pela língua portuguesa do francês Hongrie.Crê-se que o termo originou-se no século VII, quando tribos magiares integravam uma aliança búlgara chamada On-Ogour, que em túrquico búlgaro significa \"dez flechas\".",
+                "O gentílico \"húngaro\" é registrado em português a partir de 1512."
+            ],
+            "subsecções": []
+        },
+        {
+            "id": "s3",
+            "nome": "História",
+            "conteúdo": [],
+            "subsecções": [
+                {
+                    "id": "s3s1",
+                    "nome": "Antiguidade",
+                    "conteúdo": [
+                        "O Império Romano estabeleceu a província da Panônia na região a oeste do Danúbio. No século IV, com as ondas de migração, os hunos passaram pelas terras húngaras e estabeleceram um império que terminou 455. Após a queda do Império Romano em 476, sucederam-se ondas migratórias de germanos, eslavos, ávaros, francos, búlgaros e, finalmente, magiares, estes no final do século IX.",
+                        "Segundo a tradição, os magiares atravessaram os Cárpatos e entraram na planície da Panônia em 895, sob a liderança de Árpád, o líder dos magiares que queria a aproximação com a Europa Cristã.[17] No ano 1000, o rei Santo Estêvão I, filho de Géza da dinastia dos Árpads, fundou o Reino da Hungria, ao receber uma coroa enviada pelo papa Silvestre II e sedimentou o reino em 1006, com o extermínio dos opositores crentes da fé pagã.",
+                        "Entre 1241 e 1242, uma invasão mongol devastou a Hungria, com grandes perdas em vidas e propriedades. Quando os mongóis foram embora, o rei Béla IV, mandou construir castelos de pedra, que seriam importantes na batalha contra os otomanos, no século XIV."
+                    ]
+                },
+                {
+                    "id": "s3s2",
+                    "nome": "Independência e guerras otomanas",
+                    "conteúdo": [
+                        "Paulatinamente, o Reino da Hungria conseguiu livrar-se das ingerências polacas, boêmias e papais, consolidando a sua independência. Matias Corvino, que reinou entre 1458 e 1490, fortaleceu o país, repeliu os otomanos e fez com que a Hungria se tornasse um centro cultural europeu durante o Renascimento.",
+                        "A independência da Hungria chegou ao fim em 1526, após a queda de Nándorfehérvár (Belgrado) e a derrota para os otomanos na Batalha de Mohács. O Reino foi então dividido em três partes: o terço meridional caiu sob o controle otomano e o ocidental, sob o controle austríaco. A porção oriental permaneceu nominalmente independente, com o nome de Principado da Transilvânia e sob a dinastia dos Habsburgos, que retomariam a totalidade da Hungria das mãos dos otomanos 150 anos depois, no final do século XVII.",
+                        "Com o recuo dos turcos, começou a luta da nobreza húngara por autonomia no seio do Império Austríaco. A Revolução de 1848 e a posterior guerra civil eliminaram a servidão e garantiram os direitos civis, mas a revolução foi duramente reprimida pelos austríacos em 1849. Em 1867, porém, após duras batalhas internas e externas, o Império Austríaco obrigou-se a fazer reformas internas, e para evitar a independência húngara, fez um acordo na qual reconhecia o Estado autônomo da Hungria, surgindo então a chamada Monarquia Dual, ou Império Austro-Húngaro."
+                    ]
+                },
+                {
+                    "id": "s3s3",
+                    "nome": "Primeira Guerra Mundial",
+                    "conteúdo": [
+                        "O governo húngaro, que era autônomo mas obedecia às mesmas regras que a Áustria, deu início a um processo de marginalização das populações de outras etnias, o que motivou o nacionalismo sérvio, eslovaco e romeno dentro do reino. A marginalização continuou até o término da Primeira Guerra Mundial, quando todo o Império Austro-Húngaro desmoronou. Em novembro de 1918, a Hungria tornou-se uma república independente. Após uma experiência comunista sob Béla Kun, que proclamou uma república soviética húngara, e uma invasão por tropas romenas, forças militares de direita sob o comando do Almirante Miklós Horthy, entraram em Budapeste e instalaram um novo governo. Em 1920 elegeu-se uma assembleia unicameral, expressivamente de direita, Horthy foi indicado Regente e a Hungria voltou a ser uma monarquia, embora sem rei designado.",
+                        "O Tratado de Trianon, criado para se refazer a paz com os países vencedores, assinado em junho de 1920, determinou as fronteiras da Hungria no pós-guerra. O território perdido foi distribuído da maneira seguinte: a Hungria foi reduzida a 93 000 km²; a Romênia recebeu a Transilvânia 102 000 km²; a Croácia, a Eslavônia e a Voivodina uniram-se à Sérvia (63 000 km²); a Tchecoslováquia recebeu a Rutênia e a Eslováquia num total de 63 000 km²; a Áustria recebeu a Burgenland (4 000 km²) da qual a cidade de Sopron voltou à Hungria após o referendo de 1921. Com o Tratado de Trianon, o país perdeu 71% de seu território, 66% de sua população, grande parte das suas reservas de matéria prima e seu único porto marítimo (Fiume, hoje Rijeka, na Croácia) para os países vizinhos.",
+                        "A Hungria não quis aceitar a divisão de seu país, mas enfraquecida, não havia força militar para desfazer o tratado. O inconformismo com a perda de territórios e população foi a tônica do processo político húngaro do entre-guerras e perdura. Há quem diga que os húngaros que viviam em terras que passaram às mãos de outros países, sofriam alta discriminação e ataques (exemplo seriam as cidades húngaras alagadas pela criação de barragens na Transilvânia). Muitos húngaros abandonaram suas casas e migraram para outros países. O único país que futuramente ofereceria ajuda para recuperar as terras seria então a Alemanha nazista.",
+                        "Não se sabe a intenção dos países vencedores em dividir a Hungria de forma tão drástica, possivelmente para que o país não pudesse de tornar forte militar e culturalmente novamente. No museu das armas, em Paris, há um quadro que nomeia o tratado de Trianon como \"Tratado de paz\". Até hoje os húngaros sofrem com o resultado do Tratado de Trianon nos países vizinhos onde vivem, como, por exemplo a proibição por lei de que cidadãos eslovacos falem húngaro, impondo uma língua aos húngaros que ali vivem, e a proibição do presidente húngaro de entrar em território eslovaco de forma não oficial."
+                    ]
+                },
+                {
+                    "id": "s3s4",
+                    "nome": "Segunda Guerra Mundial e período contemporâneo",
+                    "conteúdo": [
+                        "Após um período conturbado politicamente na década de 1920, e após o suicídio de Teleki Pál, primeiro-ministro húngaro que não concordava com uma Hungria nazista e não via saída frente a dominação alemã, assumiu István Bethlen, a Hungria então se aliou aos nazistas alemães a partir dos anos 1930, durante a Grande Depressão, na expectativa, conforme explicações de seus líderes da época, de obter de volta os territórios perdidos. E foi o que ocorreu, entre 1938 e 1941, a Hungria retomou territórios como a Eslováquia, a Rutênia, a Transilvânia e parte da Iugoslávia.",
+                        "Declarou guerra em 1941 à União Soviética, mesmo enfraquecida, pois até então seguia as intenções alemãs. Houve sucessivas derrotas, milhares de soldados húngaros foram enviados a campos de guerra em situações precárias onde foram aniquilados cerca de 40 000 homens, após a mudança de lado de vários países e principalmente da Romênia, a Hungria tentou um acordo com os Aliados, mas não foi aceita. Adolf Hitler com medo de que mudasse de lado, ordenou a invasão da Hungria em março de 1944. Depois de diversas batalhas por toda a Hungria, os alemães foram derrotados em 4 de abril de 1944.",
+                        "Como consequência, ao fim da Segunda Guerra Mundial, tornou-se um Estado comunista sob a influência de Moscou. A Revolução de 1956 foi a oportunidade para que os húngaros se manifestassem contra o regime soviético instalado no país. Após o primeiro-ministro Imre Nagy implantar reformas democratizantes, apoiado pela população, a União Soviética invadiu a Hungria e, pela força das armas, acabou com a revolução, prendeu Nagy e executou-o tempo depois.",
+                        "No final da década de 1980, a Hungria foi um dos primeiros países da órbita soviética a procurar dissolver o Pacto de Varsóvia e a evoluir para uma democracia pluripartidária e para uma economia de mercado. As primeiras eleições livres nessa nova fase da história da Hungria foram realizadas em 1990, onde, com poucos votos, os socialistas foram rechaçados. Mas, em 1994, voltaram ao poder, apoiados pela queda da qualidade de vida e da economia húngara. Desde então, socialistas e centro-direitistas disputam o poder político na Hungria. Seguiu-se de uma aproximação com o Ocidente que levou o país a aderir à Organização do Tratado do Atlântico Norte (OTAN) em 1999 e à União Europeia em 2004."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s4",
+            "nome": "Geografia",
+            "conteúdo": [
+                "Com 93 000 km², a Hungria é um dos maiores países da Europa Central. Suas dimensões são de 250 quilômetros de norte a sul e 524 quilômetros de leste a oeste, com 2 258 quilômetros de divisas com os sete países (Sérvia, Croácia, Eslovênia, Ucrânia, Romênia, Eslováquia e Áustria) que o cerca.",
+                "Sua população é estimada em 10 064 000 de habitantes, apresentando um decréscimo populacional desde o último censo oficial em 2001. Tal fato vem ocorrendo nos últimos anos, seguindo uma tendência de todos os países do leste europeu. A Hungria é um país mediamente povoado, apresentando uma densidade de 109 habitantes por km².",
+                "A maior cidade é a capital Budapeste, que em sua região metropolitana tem 2 550 000 habitantes. Com menor proporção, a universitária Debrecen, em Hajdú-Bihar, é a segunda maior com 205 000 habitantes. A terceira é Miskolc, com pouco mais de 179 000 habitantes, no condado de Borsod-Abaúj-Zemplén, no nordeste húngaro."
+            ],
+            "subsecções": [
+                {
+                    "id": "s4s1",
+                    "nome": "Relevo",
+                    "conteúdo": [
+                        "A maior parte do país é composta por planícies, que não chegam a 200 m de altitude. Em alguns pontos existem pequenas cadeias de montanhas, mas as que passam de 300 metros de altura são apenas 2% do território húngaro. O ponto mais alto é a montanha Kékes com 1 014 metros e está localizada a nordeste de Budapeste. O ponto mais baixo é nas proximidades de Szeged no sul, em uma depressão com 77,6 metros.",
+                        "Os maiores e mais importantes rios que cruzam a Hungria são o Danúbio e o Tisza. O Danúbio é um dos rios mais importantes da Europa e, na Hungria, ele é navegável por 418 quilômetros. O Tisza é navegável por 444 quilômetros. Vale ainda ressaltar o lago Balaton, que com uma área de 592 km² é o maior lago da Europa Central e Oriental, e até é conhecido por \"mar Húngaro\". Outros lagos menores são o Velence e o Neusiedl, que tem 315 km² de superficie, mas apenas 75 km² em território húngaro (o restante localiza-se na Áustria)."
+                    ]
+                },
+                {
+                    "id": "s4s2",
+                    "nome": "Clima",
+                    "conteúdo": [
+                        "A Hungria possui um clima temperado continental,[27] com um frio e úmido inverno e um verão quente. A temperatura média anual é de 9,7 °C (com extremos de 42 °C e -29 °C).[28] A média pluviométrica é de 600 mm por ano. As chuvas são irregulares, caindo mais à oeste do Danúbio do que ao leste. Uma pequena vila, próxima de Pécs, tem um clima diferente do resto do país, semelhante ao clima mediterrâneo, o que é um diferencial na região.",
+                        "Durante os anos 1980, a Hungria começou a sentir os efeitos da poluição das indústrias e dos agrotóxicos nas plantações. Continuamente foram relatados contaminações em reservatórios de água e uma sensível mudança na fauna. Até hoje, não foi feita nenhuma grande mudança sobre o meio ambiente."
+                    ]
+                }
+            ]
+        }
+    ]
+}
